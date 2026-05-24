@@ -1,4 +1,4 @@
-package net.codedstingray.client.mixin;
+package net.codedstingray.reinvigorated.client.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;

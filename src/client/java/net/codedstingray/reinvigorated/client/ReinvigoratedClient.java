@@ -1,4 +1,4 @@
-package net.codedstingray.client;
+package net.codedstingray.reinvigorated.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

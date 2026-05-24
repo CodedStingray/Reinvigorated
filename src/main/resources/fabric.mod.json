@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.codedstingray.Reinvigorated"
+			"net.codedstingray.reinvigorated.Reinvigorated"
 		],
 		"client": [
-			"net.codedstingray.client.ReinvigoratedClient"
+			"net.codedstingray.reinvigorated.client.ReinvigoratedClient"
 		]
 	},
 	"mixins": [

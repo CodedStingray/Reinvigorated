@@ -1,4 +1,4 @@
-package net.codedstingray.mixin;
+package net.codedstingray.reinvigorated.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

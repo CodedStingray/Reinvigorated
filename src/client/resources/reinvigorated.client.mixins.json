@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.codedstingray.client.mixin",
+	"package": "net.codedstingray.reinvigorated.client.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
 		"ExampleClientMixin"

@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.codedstingray.mixin",
+	"package": "net.codedstingray.reinvigorated.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
 		"ExampleMixin"
