@@ -13,10 +13,13 @@ import net.minecraft.world.item.Item;
 
 import java.util.function.Function;
 
+@SuppressWarnings("unused")
 public class ReinvigoratedItems {
     public static final Item COPPER_ROD = registerItem("copper_rod", CreativeModeTabs.INGREDIENTS);
     public static final Item IRON_ROD = registerItem("iron_rod", CreativeModeTabs.INGREDIENTS);
     public static final Item GOLD_ROD = registerItem("gold_rod", CreativeModeTabs.INGREDIENTS);
+
+    public static final Item REDSTONE_CABLE = registerItem("redstone_cable", CreativeModeTabs.INGREDIENTS);
 
     public static final Item TRACK = registerItem("track", CreativeModeTabs.INGREDIENTS);
     public static final Item POWERED_TRACK = registerItem("powered_track", CreativeModeTabs.INGREDIENTS);

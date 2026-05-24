@@ -1,7 +1,9 @@
 {
+  "block.reinvigorated.burnt_redstone_block": "Burnt Redstone Block",
   "item.reinvigorated.copper_rod": "Copper Rod",
   "item.reinvigorated.iron_rod": "Iron Rod",
   "item.reinvigorated.gold_rod": "Gold Rod",
+  "item.reinvigorated.redstone_cable": "Redstone Cable",
   "item.reinvigorated.track": "Track",
   "item.reinvigorated.powered_track": "Powered Track"
 }

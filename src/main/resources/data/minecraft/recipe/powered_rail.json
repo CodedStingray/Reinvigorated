@@ -9,7 +9,7 @@
   "key": {
     "#": "reinvigorated:powered_track",
     "/": "minecraft:stick",
-    ".": "minecraft:redstone"
+    ".": "reinvigorated:redstone_cable"
   },
   "result": {
     "id": "minecraft:powered_rail",

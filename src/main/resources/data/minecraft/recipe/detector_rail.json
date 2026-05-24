@@ -8,7 +8,7 @@
   ],
   "key": {
     "_": "minecraft:stone_pressure_plate",
-    ".": "minecraft:redstone",
+    ".": "reinvigorated:redstone_cable",
     "#": "reinvigorated:track"
   },
   "result": {

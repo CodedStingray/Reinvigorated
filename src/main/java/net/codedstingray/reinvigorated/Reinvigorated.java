@@ -1,5 +1,6 @@
 package net.codedstingray.reinvigorated;
 
+import net.codedstingray.reinvigorated.world.block.ReinvigoratedBlocks;
 import net.codedstingray.reinvigorated.world.item.ReinvigoratedItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -21,5 +22,8 @@ public class Reinvigorated implements ModInitializer {
 
 		LOGGER.info("Initializing Items");
 		ReinvigoratedItems.initialize();
+
+		LOGGER.info("Initializing Blocks");
+		ReinvigoratedBlocks.initialize();
 	}
 }

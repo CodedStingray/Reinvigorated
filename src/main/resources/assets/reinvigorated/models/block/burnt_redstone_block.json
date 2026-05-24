@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "reinvigorated:block/burnt_redstone_block"
+  }
+}

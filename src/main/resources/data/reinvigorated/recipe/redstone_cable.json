@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": "reinvigorated:burnt_redstone_block"
+  },
+  "result": {
+    "id": "reinvigorated:redstone_cable",
+    "count": 3
+  }
+}

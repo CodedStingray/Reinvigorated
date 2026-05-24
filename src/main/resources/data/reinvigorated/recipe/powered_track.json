@@ -6,7 +6,7 @@
     "#=I"
   ],
   "key": {
-    "#": "minecraft:redstone",
+    "#": "reinvigorated:redstone_cable",
     "=": "reinvigorated:gold_rod",
     "I": "reinvigorated:track"
   },
