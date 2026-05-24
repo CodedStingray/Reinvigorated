@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#/#",
+    "#.#"
+  ],
+  "key": {
+    "#": "reinvigorated:powered_track",
+    "/": "minecraft:stick",
+    ".": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:powered_rail",
+    "count": 6
+  }
+}

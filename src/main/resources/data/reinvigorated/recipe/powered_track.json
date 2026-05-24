@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#=I",
+    "#=I",
+    "#=I"
+  ],
+  "key": {
+    "#": "minecraft:redstone",
+    "=": "reinvigorated:gold_rod",
+    "I": "reinvigorated:track"
+  },
+  "result": {
+    "id": "reinvigorated:powered_track",
+    "count": 3
+  }
+}
