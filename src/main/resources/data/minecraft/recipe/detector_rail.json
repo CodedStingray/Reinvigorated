@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#.#",
+    "#_#",
+    "#.#"
+  ],
+  "key": {
+    "_": "minecraft:stone_pressure_plate",
+    ".": "minecraft:redstone",
+    "#": "reinvigorated:track"
+  },
+  "result": {
+    "count": 6,
+    "id": "minecraft:detector_rail"
+  }
+}
