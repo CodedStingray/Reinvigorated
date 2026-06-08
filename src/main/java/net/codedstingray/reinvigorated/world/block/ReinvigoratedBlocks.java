@@ -26,7 +26,7 @@ public class ReinvigoratedBlocks {
 
     public static final Block BURNT_REDSTONE_BLOCK = registerBlock(
             "burnt_redstone_block",
-            Block::new,
+            BurntRedstoneBlock::new,
             BlockBehaviour.Properties.of()
                     .sound(SoundType.METAL)
                     .mapColor(MapColor.FIRE)
