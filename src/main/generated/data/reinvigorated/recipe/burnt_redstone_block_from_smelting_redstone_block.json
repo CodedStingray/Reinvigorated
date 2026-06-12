@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "group": "burnt_redstone_block",
+  "ingredient": "minecraft:redstone_block",
+  "result": {
+    "id": "reinvigorated:burnt_redstone_block"
+  }
+}

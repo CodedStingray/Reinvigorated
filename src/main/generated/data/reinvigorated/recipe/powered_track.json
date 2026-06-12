@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "powered_track",
+  "key": {
+    "#": "reinvigorated:track",
+    "=": "reinvigorated:gold_rod",
+    "I": "reinvigorated:redstone_cable"
+  },
+  "pattern": [
+    "I=#",
+    "I=#",
+    "I=#"
+  ],
+  "result": {
+    "count": 3,
+    "id": "reinvigorated:powered_track"
+  }
+}

@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"net.codedstingray.reinvigorated.client.ReinvigoratedClient"
+		],
+		"fabric-datagen": [
+			"net.codedstingray.reinvigorated.client.ReinvigoratedDataGenerator"
 		]
 	},
 	"mixins": [

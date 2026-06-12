@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "redstone_cable",
+  "ingredients": [
+    "reinvigorated:burnt_redstone_block"
+  ],
+  "result": {
+    "count": 3,
+    "id": "reinvigorated:redstone_cable"
+  }
+}

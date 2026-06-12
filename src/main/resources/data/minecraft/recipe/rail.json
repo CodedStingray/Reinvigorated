@@ -1,17 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    "#/#",
-    "#/#",
-    "#/#"
-  ],
   "key": {
-    "#": "reinvigorated:track",
-    "/": "minecraft:stick"
+    "#": "minecraft:stick",
+    "X": "minecraft:iron_ingot"
   },
+  "pattern": [
+    "X X",
+    "X#X",
+    "X X"
+  ],
   "result": {
-    "id": "minecraft:rail",
-    "count": 32
+    "id": "minecraft:air"
   }
 }

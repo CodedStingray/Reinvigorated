@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_redstone_cable": {
+      "conditions": {
+        "items": [
+          {
+            "items": "reinvigorated:redstone_cable"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "reinvigorated:powered_track"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_redstone_cable"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "reinvigorated:powered_track"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "reinvigorated:detector_rail"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_track": {
+      "conditions": {
+        "items": [
+          {
+            "items": "reinvigorated:track"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_track"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "reinvigorated:detector_rail"
+    ]
+  }
+}

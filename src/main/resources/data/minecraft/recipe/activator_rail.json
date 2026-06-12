@@ -1,18 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    "#/#",
-    "#T#",
-    "#/#"
-  ],
   "key": {
-    "T": "minecraft:redstone_torch",
-    "/": "minecraft:stick",
-    "#": "reinvigorated:track"
+    "#": "minecraft:redstone_torch",
+    "S": "minecraft:stick",
+    "X": "minecraft:iron_ingot"
   },
+  "pattern": [
+    "XSX",
+    "X#X",
+    "XSX"
+  ],
   "result": {
-    "count": 6,
-    "id": "minecraft:activator_rail"
+    "id": "minecraft:air"
   }
 }

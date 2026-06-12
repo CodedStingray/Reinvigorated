@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "activator_rail",
+  "key": {
+    "#": "reinvigorated:track",
+    "/": "minecraft:stick",
+    "T": "minecraft:redstone_torch"
+  },
+  "pattern": [
+    "#/#",
+    "#T#",
+    "#/#"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:activator_rail"
+  }
+}
